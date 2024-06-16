@@ -22,7 +22,7 @@ Prerequisites:
 - Visual Studio 2022
 - .NET Framework
 - MS Access
-- Php MyAdmin MySql Xampp
+- PHP MyAdmin MySQL Xampp
 
   
 
