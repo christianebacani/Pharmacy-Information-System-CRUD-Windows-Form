@@ -1,11 +1,11 @@
 # Pharmacy-Information-System-CRUD-Windows-Form
 
-Overview:
+# Overview:
 
 This project is a Pharmacy Information System developed using C# in Visual Studio 2022. It features a simple CRUD (Create, Read, Update, Delete) interface for managing a medicine inventory. The application is designed with a minimalist black and white theme.
 
 
-Features:
+# Features:
 
 - User Registration and Login: Users must register and log in to access the system.
 - Medicine Inventory Management: After logging in, users are directed to the main form where they can manage the medicine inventory.
@@ -16,7 +16,7 @@ Features:
 
   
 
-Getting Started
+# Getting Started
 Prerequisites:
 
 - Visual Studio 2022
@@ -26,13 +26,13 @@ Prerequisites:
 
   
 
-Running the Application:
+# Running the Application:
 - Build the solution by clicking on Build > Build Solution.
 - Run the application by clicking on Debug > Start Debugging or pressing F5.
 
   
   
-Usage:
+# Usage:
 Registration: First-time users need to register by providing a username and password.
 Login: Registered users can log in using their credentials.
 Main Form: After logging in, users will be directed to the main form where they can manage the medicine inventory.
@@ -48,7 +48,7 @@ Delete Medicine: Select a medicine from the list and click "Delete".
 
 
 
-Screenshots:
+# Screenshots:
 
   Registration Form
   
@@ -90,7 +90,7 @@ Screenshots:
 
 
 
-Contributing:
+# Contributing:
 Contributions are welcome! Please follow these steps:
 
 
@@ -101,12 +101,12 @@ Contributions are welcome! Please follow these steps:
 - Create a pull request.
 
 
-License:
+# License:
 This project is licensed under the MIT License. See the [MIT LICENSE](LICENSE) file for details.
 
   
 
-Contact:
+# Contact:
 If you have any questions or feedback, feel free to reach out via christianbacani581@gmail.com
 
 
