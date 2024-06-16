@@ -47,6 +47,7 @@ Delete Medicine: Select a medicine from the list and click "Delete".
 
 
 
+
 Screenshots:
 
   Registration Form
@@ -98,6 +99,10 @@ Contributions are welcome! Please follow these steps:
 - Commit your changes (git commit -m 'Add your feature').
 - Push to the branch (git push origin feature/your-feature).
 - Create a pull request.
+
+
+License:
+This project is licensed under the MIT License. See the LICENSE file for details.
 
   
 
