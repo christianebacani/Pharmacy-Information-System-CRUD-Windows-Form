@@ -1,4 +1,4 @@
-# Pharmacy-Information-System-CRUD-Windows-Form
+# Pharmacy Information System CRUD Windows Form
 
 # Overview:
 
